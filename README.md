@@ -1,4 +1,6 @@
-# 💫 About Me:
+<div align="center">
+  
+  # 💫 About Me:
 🗺️ I'm from Santo André, SP<br>🏫 I’m currently studying on FATEC<br>👨‍💻 I’m looking for knowledge<br>🌱 I’m currently learning<br>🕹️ I love games
 
 
@@ -19,3 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=GroundWave96&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
