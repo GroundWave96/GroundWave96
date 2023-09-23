@@ -1,7 +1,6 @@
 <div align="center">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3282b8&height=150&section=header"/>
-  
   # 💫 About Me:
 🗺️ I'm from Santo André, SP<br>🏫 I’m currently studying on FATEC<br>👨‍💻 I’m looking for knowledge<br>🌱 I’m currently learning<br>🕹️ I love games
 
@@ -21,7 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GroundWave96&icon=5&color=12)](https://visitcount.itsvg.in)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3282b8&height=120&section=footer"/>
 
 </div>
