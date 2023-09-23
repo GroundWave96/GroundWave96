@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=&color=0:3282b8,100:324752&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=&color=3282b8&height=300&section=header&text=capsule%20render&fontSize=90)
   
   # 💫 About Me:
 🗺️ I'm from Santo André, SP<br>🏫 I’m currently studying on FATEC<br>👨‍💻 I’m looking for knowledge<br>🌱 I’m currently learning<br>🕹️ I love games
